@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+h1 {
+  font-family: "Verdana";
+  font-weight: normal;
+  font-size: 50px;
+  color: #fff;
+  text-align: center;
+}
+h2 {
+  font-family: "Verdana";
+  font-weight: 300;
+  font-size: 42px;
+  color: #fff;
+}
+p {
+  font-family: "Verdana";
+  font-size: 21px;
+  color: gray;
+}
+
+.bodyy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: #000;
+  font-family: "Verdana";
+  font-weight: normal;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+.phone {
+  margin: 10px;
+}
+footer, h3 {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  text-align: right !important;
+  color: gray;
+  font-family: "Verdana";
+}
